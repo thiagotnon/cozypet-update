@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CozyPet</title>
+        <item>
+            <title>1</title>
+            <pubDate>Sun, 06 Jul 2025 16:01:35 +0200</pubDate>
+            <sparkle:version>Beta</sparkle:version>
+            <sparkle:shortVersionString>1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/thiagotnon/cozypet-update/releases/download/production/CozyPet_v1.0.0-Beta.dmg" length="1045153" type="application/octet-stream" sparkle:edSignature="1SvLfbnJ9ESZK99P2MXRcx+nRd6KJAn+vQrk75jYgbAADV+P2uv5CHefgis9ARvf4u+Ua5OAma3GP7EqgFqKCA=="/>
+        </item>
+    </channel>
+</rss>
