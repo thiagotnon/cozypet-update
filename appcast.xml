@@ -3,12 +3,15 @@
     <channel>
         <title>CozyPet</title>
         <item>
-            <title>1</title>
-            <pubDate>Sun, 06 Jul 2025 16:01:35 +0200</pubDate>
+            <title>1.1</title>
+            <pubDate>Mon, 14 Jul 2025 21:51:37 +0200</pubDate>
             <sparkle:version>Beta</sparkle:version>
-            <sparkle:shortVersionString>1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/thiagotnon/cozypet-update/releases/download/production/CozyPet_v1.0.0-Beta.dmg" length="1045153" type="application/octet-stream" sparkle:edSignature="1SvLfbnJ9ESZK99P2MXRcx+nRd6KJAn+vQrk75jYgbAADV+P2uv5CHefgis9ARvf4u+Ua5OAma3GP7EqgFqKCA=="/>
+            <sparkle:releaseNotesLink>https://thiagotnon.github.io/cozypet-update/index.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/thiagotnon/cozypet-update/releases/download/v1.1-beta/CozyPet_v1.1-Beta.dmg" length="1062069" type="application/octet-stream" sparkle:edSignature="HJ0IGLQRTqZNg6DF0I9JU2vR7r7LyztKmPI0Zx5NlJ6/LE3cS1SVvR8ruzO8DY5r/EtaIcBw3ovdazLOzEKuCw=="/>
         </item>
     </channel>
 </rss>
+
+
