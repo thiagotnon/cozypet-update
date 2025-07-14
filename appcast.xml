@@ -9,7 +9,8 @@
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://thiagotnon.github.io/cozypet-update/index.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/thiagotnon/cozypet-update/releases/download/v1.1-beta/CozyPet.dmg" length="1062061" type="application/octet-stream" sparkle:edSignature="hL5CSY/8MUYg0B8CaQ5+HibX7pgMbXKKKiELQOmJngWXeDzV70BrC/FkLLAc9lI8OBGT9KIRatGa33IppIetAQ=="/>
+            <enclosure url="https://github.com/thiagotnon/cozypet-update/releases/download/v1.1-beta/CozyPet.dmg" length="1062192" type="application/octet-stream" sparkle:edSignature="l9rEXuMu0MhT9MNhXF3lsp8gJCpG/TUs4AXa9EZCt0h3vuWcmenJXkkAW2m4mZvRXKzvxDZ3nROLnE0guCJPCQ=="/>
         </item>
     </channel>
 </rss>
+
